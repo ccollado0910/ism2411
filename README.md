@@ -13,6 +13,7 @@ Each folder corresponds to one module.
 
 - `week07/` — Functions: calculate_tax, apply_discount, final_price
 - Module 8 — Git: set up this repo with a `.gitignore`, a README, and my first GitHub commits
+- `week10/` — Lists and tuples: inventory list, slicing, sales totals, filtering
 
 ## How to Run
 
